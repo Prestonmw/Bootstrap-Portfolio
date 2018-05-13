@@ -1,0 +1,43 @@
+body {
+  background: url("background.png");
+}
+
+
+footer{
+  background-color: aliceblue;
+  
+}
+
+h1{
+  color: aqua;
+}
+
+h3{
+  color: blueviolet;
+}
+
+label{
+  color: seagreen;
+}
+
+input, textarea{
+  width: 100%;
+}
+
+
+#nav-link{
+  margin-left: 1000px;
+}
+
+
+@media screen and (max-width: 980px){
+
+}
+
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 640px){
+
+}
